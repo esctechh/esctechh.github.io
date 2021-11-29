@@ -1,5 +1,5 @@
 {
-  "isForceUpdate": true,
+  "isForceUpdate": false,
   "isThereError": false,
   "isChangeBase": false,
   "baseUrl": "http://51.15.106.194",

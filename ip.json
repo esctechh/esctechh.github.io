@@ -1,10 +1,12 @@
 {
-  "isForceUpdate": false,
+  "isForceUpdate": true,
   "isThereError": false,
   "isChangeBase": false,
   "baseUrl": "http://51.15.106.194",
   "errorText": "Try it in an hour. Teknik bir hata var lütfen bir saat sonra tekrar deneyin.",
   "version": "0.0.3",
   "minVersion": "0.0.3",
-  "url": "https://play.google.com/store/apps/details?id=com.sc.instaplus"
+  "url": "https://play.google.com/store/apps/details?id=com.sc.instaplus",
+  "secretStoryNavigateMarket":true,
+  "secretMessageNavigateMarket":true
 }

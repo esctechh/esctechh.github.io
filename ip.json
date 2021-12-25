@@ -8,5 +8,5 @@
   "minVersion": "1.4.9",
   "url": "https://play.google.com/store/apps/details?id=com.sc.instaplus",
   "secretStoryNavigateMarket": true,
-  "secretMessageNavigateMarket": false
+  "secretMessageNavigateMarket": true
 }

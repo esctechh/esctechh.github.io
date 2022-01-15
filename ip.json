@@ -7,14 +7,14 @@
   "version": "1.4.9",
   "minVersion": "1.4.9",
   "url": "https://play.google.com/store/apps/details?id=com.sc.instaplus",
-  "secretStoryNavigateMarket": "com.blindstory.secretstory",
+  "secretStoryNavigateMarket": true,
   "secretMessageNavigateMarket": true,
   "followerPoolPackageName": null,
   "unansweredRequestsPackageName": null,
   "likeAnalysisPackageName": null,
   "profilePhotoPackageName": null,
   "downloadPostPackageName": null,
-  "secretStoryPackageName": null,
+  "secretStoryPackageName": "com.blindstory.secretstory",
   "secretMessagePackageName": null,
   "storyAnalysisPackageName": null
 }

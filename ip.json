@@ -12,8 +12,8 @@
   "followerPoolPackageName": null,
   "unansweredRequestsPackageName": null,
   "likeAnalysisPackageName": null,
-  "profilePhotoPackageName": "com.sc.insprofile",
-  "downloadPostPackageName": "com.sc.insvideodownloader",
+  "profilePhotoPackageName": null,
+  "downloadPostPackageName": null,
   "secretStoryPackageName": "com.blindstory.secretstory",
   "secretMessagePackageName": "com.incognitomessage.secretmessage",
   "storyAnalysisPackageName": "com.sn.instory"

@@ -15,6 +15,6 @@
   "profilePhotoPackageName": null,
   "downloadPostPackageName": null,
   "secretStoryPackageName": null,
-  "secretMessagePackageName": null,
+  "secretMessagePackageName": "com.incognitomessage.secretmessage",
   "storyAnalysisPackageName": null,
 }

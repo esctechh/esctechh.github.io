@@ -13,7 +13,7 @@
   "unansweredRequestsPackageName": null,
   "likeAnalysisPackageName": null,
   "profilePhotoPackageName": null,
-  "downloadPostPackageName": null,
+  "downloadPostPackageName": "com.sc.insvideodownloader",
   "secretStoryPackageName": null,
   "secretMessagePackageName": "com.incognitomessage.secretmessage",
   "storyAnalysisPackageName": null,

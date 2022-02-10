@@ -14,7 +14,8 @@
   "likeAnalysisPackageName": null,
   "profilePhotoPackageName": null,
   "downloadPostPackageName": "com.sc.insvideodownloader",
-  "secretStoryPackageName": "com.blindstory.secretstory",
+  "secretStoryPackageName": "com.incognitostory.secretstory",
   "secretMessagePackageName": "com.incognitomessage.secretmessage",
   "storyAnalysisPackageName": "com.sn.instory"
 }
+

@@ -9,12 +9,12 @@
   "url": "https://play.google.com/store/apps/details?id=followers.unfollowers.analysis",
   "secretStoryNavigateMarket": true,
   "secretMessageNavigateMarket": true,
-  "followerPoolPackageName": null,
-  "unansweredRequestsPackageName": null,
-  "likeAnalysisPackageName": null,
-  "profilePhotoPackageName": null,
+  "followerPoolPackageName": "followers.unfollowers.analysis",
+  "unansweredRequestsPackageName": "followers.unfollowers.analysis",
+  "likeAnalysisPackageName": "followers.unfollowers.analysis",
+  "profilePhotoPackageName": "followers.unfollowers.analysis",
   "downloadPostPackageName": "com.sc.insvideodownloader",
-  "secretStoryPackageName": null,
+  "secretStoryPackageName": "followers.unfollowers.analysis",
   "secretMessagePackageName": "com.incognitomessage.secretmessage",
-  "storyAnalysisPackageName": null
+  "storyAnalysisPackageName": "followers.unfollowers.analysis"
 }

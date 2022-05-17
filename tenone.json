@@ -1,0 +1,20 @@
+{
+  "isForceUpdate": false,
+  "isThereError": false,
+  "isChangeBase": false,
+  "baseUrl": "http://51.15.106.194",
+  "errorText": "Try it in an hour. Teknik bir hata var lütfen bir saat sonra tekrar deneyin.",
+  "version": "1.0.0",
+  "minVersion": "1.0.0",
+  "url": "https://play.google.com/store/apps/details?id=unfollowers.followers.analysis.free",
+  "secretStoryNavigateMarket": true,
+  "secretMessageNavigateMarket": true,
+  "followerPoolPackageName": null,
+  "unansweredRequestsPackageName": null,
+  "likeAnalysisPackageName": null,
+  "profilePhotoPackageName": null,
+  "downloadPostPackageName": "com.sc.insvideodownloader",
+  "secretStoryPackageName": null,
+  "secretMessagePackageName": "com.incognitomessage.secretmessage",
+  "storyAnalysisPackageName": "com.sn.instory"
+}
